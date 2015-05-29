@@ -1,7 +1,6 @@
 {
   "name": "rgu",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -13,5 +12,17 @@
   "license": "ISC",
   "devDependencies": {
     "tape": "^4.0.0"
-  }
+  },
+  "dependencies": {
+    "tape": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/rgu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/rgu/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/rgu#readme",
+  "description": ""
 }
